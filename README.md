@@ -5,7 +5,7 @@
 <div align="center">
   <h3>Melissa Lanna Bragança</h3>
   <p>Estudante de Desenvolvimento de Software Multiplataforma na <b>FATEC</b></p>
-  <p>Buscando estágio em desenvolvimento de sistemas e transição para o ecossistema de <b>Tech & Fintechs</b></p>
+  <p>Buscando estágio em Suporte/Dados e transição para o ecossistema de <b>Tech & Fintechs</b></p>
 
   <a href="https://www.linkedin.com/in/melissa-lanna-96726625a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
