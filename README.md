@@ -21,7 +21,7 @@
 
 Tenho base sólida em **Administração** e venho migrando para a área de tecnologia, com foco especial em **desenvolvimento de sistemas e banco de dados**. Gosto de resolver problemas com lógica e organização — características que trago da minha experiência administrativa e aplico hoje em código e modelagem de dados.
 
-- 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na FATEC (previsão de conclusão: 2028)
+- 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na FATEC (previsão de conclusão: 07/2028)
 - 📊 Técnica em Administração pela ETEC Tereza Nunes
 - ⚙️ Técnico em Eletrônica em andamento pelo SENAI
 - 💼 Atualmente Jovem Aprendiz de Técnico na **Claro**
@@ -69,7 +69,7 @@ Tenho base sólida em **Administração** e venho migrando para a área de tecno
 
 ### 💼 Experiência Profissional
 
-**Jovem Aprendiz de Técnico** — Claro `Fev/2026 – atual`
+**Jovem Aprendiz de Técnico** — Claro `Jun/2026 – atual`
 - Apoio técnico em atividades de suporte e manutenção de equipamentos e sistemas
 - Acompanhamento de processos técnicos e operacionais da área
 - Suporte a colaboradores em demandas técnicas do dia a dia
@@ -89,7 +89,7 @@ Tenho base sólida em **Administração** e venho migrando para a área de tecno
 
 | Curso | Instituição | Período |
 |---|---|---|
-| Tecnólogo em Desenvolvimento de Software Multiplataforma | FATEC | Ago/2025 – Jul/2028 (previsto) |
+| Tecnólogo em Desenvolvimento de Software Multiplataforma | FATEC | Ago/2025 – Jun/2028 (previsto) |
 | Técnico em Eletrônica | SENAI | Em andamento |
 | Técnico em Administração | ETEC Tereza Nunes | Jan/2021 – Dez/2023 |
 
