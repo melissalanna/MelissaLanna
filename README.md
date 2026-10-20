@@ -101,3 +101,9 @@ Aplicação web desenvolvida em equipe para ajudar microempreendedores individua
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:3F5EFB,100:7F00FF&height=100&section=footer" />
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melissalanna/melissalanna/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melissalanna/melissalanna/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/melissalanna/melissalanna/output/snake.svg">
+</picture>
