@@ -20,17 +20,15 @@
 
 ---
 
-## 💜 Sobre mim
+<div align="center">💜 Sobre mim
 
-```js
-const melissa = {
-  curso: "Desenvolvimento de Software Multiplataforma — FATEC",
-  interesses: ["Desenvolvimento Web", "Banco de Dados", "Análise de Dados"],
-  tecnologias: ["JavaScript", "HTML", "CSS", "SQL", "Python", "C++"],
-  atualmente: "Aprendendo, praticando e criando projetos",
-  objetivo: "Crescer na área de tecnologia 🚀"
-};
-```
+</div><table>
+<tr><td>🎓 <b>Curso</b></td><td>Desenvolvimento de Software Multiplataforma — FATEC</td></tr>
+<tr><td>💻 <b>Interesses</b></td><td>Desenvolvimento Web, Banco de Dados e Análise de Dados</td></tr>
+<tr><td>🛠️ <b>Tecnologias</b></td><td>JavaScript, HTML, CSS, SQL, Python e C++</td></tr>
+<tr><td>🌱 <b>Atualmente</b></td><td>Aprendendo, praticando e criando projetos</td></tr>
+<tr><td>🚀 <b>Objetivo</b></td><td>Crescer profissionalmente na área de tecnologia</td></tr>
+</table>
 
 Sou estudante de **Desenvolvimento de Software Multiplataforma na FATEC** e gosto de aprender construindo projetos. Tenho interesse em desenvolvimento web, modelagem de bancos de dados e soluções que ajudem a resolver problemas do dia a dia.
 
