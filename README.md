@@ -18,8 +18,6 @@
 
 </div>
 
----
-
 <div align="center">💜 Sobre mim
 
 </div><table>
