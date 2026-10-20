@@ -86,17 +86,6 @@ Aplicação web desenvolvida em equipe para ajudar microempreendedores individua
 
 <img width="75%" src="https://streak-stats.demolab.com?user=melissalanna&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições" />
 
-</div>
-
-> ℹ️ Os cartões mostram dados públicos do GitHub e podem levar um tempo para atualizar ou ficar temporariamente indisponíveis.
-
-## 🐍 Minhas contribuições em movimento
-
-<div align="center">
-
-![Animação da cobrinha de contribuições](https://raw.githubusercontent.com/melissalanna/melissalanna/output/snake.svg)
-
-</div>
 
 ## 🌱 No momento
 
